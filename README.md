@@ -13,6 +13,8 @@ master
  ## li tag
       li is used for arranging things in a list.
       
-  ## ul tag
+ ## ul tag
        ul is used for unordered things.
     master
+## img tag
+   img tga is uesdto addimage on a web page.
